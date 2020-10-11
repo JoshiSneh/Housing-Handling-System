@@ -4,3 +4,5 @@ It is a Society Web App, where all society, where members can access various fea
 This app contain seperate login page for admin(Secretary) and User(members).
 
 App contain Paytm gateway method for paying montlhy maintenance. 
+
+This is still under development...
